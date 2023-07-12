@@ -1,0 +1,15 @@
+1. Implement Search 
+- Seach by Prompt
+- Search by Tag
+- Search by Username
+2. Implement Click on Tag
+3. Implement View other profiles
+
+4. Implement Like functionality
+5. Filter most liked prompt
+Features I want to add
+- Comment section where people can discuss what uses they found with that particular code
+
+
+**Don't be afraid, you know you can do it. Just don't give up.**
+**Break the problem down to its roots.**
